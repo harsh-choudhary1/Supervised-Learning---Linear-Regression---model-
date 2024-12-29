@@ -1,0 +1,7 @@
+#  Output fram  linear regression house price predicting models
+
+1 linear regression 
+
+    Mean 603.97488954578
+    standares deviation: 92.07309920815364
+
